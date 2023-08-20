@@ -1,7 +1,7 @@
 # A Amazon Clone App
-Flutter
-Dart
-MongoDB
-NodeJs
-Express
+Flutter \n
+Dart \n
+MongoDB \n
+NodeJs \n
+Express \n
 
